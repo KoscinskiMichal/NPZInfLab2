@@ -1,4 +1,0 @@
-*.tmp 
-*.xlsx
-katalog
-*.cpp
